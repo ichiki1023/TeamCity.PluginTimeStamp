@@ -33,7 +33,7 @@
       <excludeFolder url="file://$TeamCityDistribution$/webapps/ROOT/WEB-INF/plugins" />
       <excludeFolder url="file://$TeamCityDistribution$/webapps/ROOT/plugins" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library>
@@ -48,4 +48,3 @@
     <orderEntry type="library" name="TeamCity server runtime" level="project" />
   </component>
 </module>
-

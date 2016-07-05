@@ -1,2 +1,5 @@
 .idea
 out
+idea-resolve-helper.iml
+server/server.iml
+tests/tests.iml
